@@ -1,0 +1,21 @@
+/*CSS do rodapé*/
+#footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height:30px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: right;
+    margin-left: 120px;
+}
+
+#footer #divFooter{
+    margin-right: 30px;
+    padding-top: 4px;
+}
+
+#relogioRodape, #dataRodape, #temperatura{}
+
+#shawn{text-decoration: none;}

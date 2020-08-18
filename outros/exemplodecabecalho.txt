@@ -1,0 +1,12 @@
+/* EXEMPLO DE CABEÇALHO PARA COLOCR EM --> TODOS <-- OS ARQUIVOS DO PROJETO */
+
+<!-- 
+Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro - Campus Arraial do Cabo
+Curso Técnico de Informática integrado ao Ensino Médio
+Projeto Interdisciplinar - Prof. Me. Marcelo Simas Mattos
+Projeto pertencente a um dos Trabalhos de Conclusão de Curso 2020.1 da turma INF171
+GRUPO: Débora dos Santos Pereira, Gabrielly Santos Lopes, Hingrid Monteiro Costa e Luciano Vieira Mendonça Júnior
+ORIENTADOR: Professor Mestre Marcelo Simas Mattos 
+APLICAÇÃO WEB DE AUTOMAÇÃO COMERCIAL: AMIGO BICHO
+Colaboraram com este projeto: Gabriel,
+-->

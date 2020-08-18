@@ -1,0 +1,96 @@
+/* Estilo index */
+.inicio1{
+    background-color: white;
+    font-family: "Montserrat", sans-serif !important; 
+}
+#inicio2{
+    text-align: center;
+    border: 1px solid #000033;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 80px;
+    margin-left: 80px;
+    background-color: #000033;
+    background-image:url('../imagens/doguinho-ola.png');
+    background-repeat: no-repeat;
+    background-position-y:100;
+    background-position: right bottom;
+
+
+}
+#inicio3{
+    margin-top: 300px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    width: 30% !important;
+    height: 30% !important;
+
+}
+
+
+#inicio3 th{text-align: center}
+
+#inicio3 .inputCPF{width:80%;height: 40px; padding-left: 10px; outline: 0; border-radius: 30px 30px 30px 30px; font-size: 120% !important;font-family: "Montserrat", sans-serif; text-align: left !important;}
+
+#inicio3 .inputSenha{width: 80%; height: 40px; padding-left: 10px; outline: 0; border-radius: 30px 30px 30px 30px; font-size: 120% !important;font-family: "Montserrat", sans-serif; text-align: left !important;}
+
+#inicio3 #icones{font-size: 180% !important;text-align: center;}
+
+#inicio3 #btEntrar{cursor: pointer; height: 40px; width: 120px; background-color: rgb(16,122,135); color: white; border-radius: 10px 10px 10px 10px; font-size: 120%; font-weight: 800; margin-bottom: 20px; margin-top: 20px;}
+
+#inicio2 #iconeInfo{color: white; cursor: pointer; font-size: 190%; margin-left: 8px; margin-bottom: 8px}
+
+#inicio2 #iconeInfo:hover {color: #e1e1d0; }
+
+#olho {color: #9c9c9c;cursor: pointer;font-size: 120% !important;height:30px;position: relative;flex: 1 0 0;margin-left: -36px;}
+
+.h1Index{font-size:65px; color: #e1e1d0; padding-bottom: 40px; font-family:"Grand Hotel", sans-serif !important; }
+
+.h2Index{font-weight: bolder}
+
+/* Fim estilo Index */
+
+/*Estilo Home*/ /*Outras Páginas*/
+.div1{background-color:#e1e1d0;}
+
+.w3-sidebar {width: 120px}
+
+#est{margin:  100px;}
+
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif !important;font-weight: none !important; }
+
+.w3-row-padding img {margin-bottom: 12px}
+
+.corLetraNavbar{color:#e1e1d0}
+
+#main {margin-left: 120px; }
+
+#fieldsets{border:6px solid;width: 49%;height: 400px;}
+
+#caminho{height: 20px;width: 100%;}
+
+.links{text-decoration: none;font-weight: bolder;}
+
+#tableTelefone{
+    width: 60%;
+    border: 1px solid;
+}
+
+
+/*Telas Pequenas*/
+.myNavbar{
+    top: 100px;
+}
+@media only screen and (max-width: 600px) 
+{#main 
+ {margin-left: 0; margin-top: 100px;}
+ .inicio3
+ {
+     width: 75%;
+     background-color: rgb(225,225,208,0.8); 
+ }
+}
+
+
+/*Fim telas pequenas*/
+/*fim estilo Home*/
